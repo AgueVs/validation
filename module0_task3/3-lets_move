@@ -1,0 +1,9 @@
+ls -lrt 
+
+ls -lrt /tmp/u
+
+mv *[A-Z]* /tmp/u
+
+ls -lrt *
+
+ls -rtl /tmp/u
