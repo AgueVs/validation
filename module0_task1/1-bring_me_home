@@ -1,4 +1,4 @@
 pwd
-
-echo $HOME
+cd $HOME
+pwd
 

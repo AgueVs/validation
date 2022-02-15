@@ -1,9 +1,12 @@
 ls -lrt 
 
+mkdir /tmp/u
+
 ls -lrt /tmp/u
 
 mv *[A-Z]* /tmp/u
 
-ls -lrt *
+ls -lrt 
 
 ls -rtl /tmp/u
+
