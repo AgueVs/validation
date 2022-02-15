@@ -1,0 +1,11 @@
+#!/bin/bash
+
+initial=0
+end=9
+
+while [ $end  -ge  $initial ]
+do
+echo "DevOps"
+let initial=$initial+1
+done
+
