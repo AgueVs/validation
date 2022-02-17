@@ -1,10 +1,4 @@
 touch hello
-
-ls -lrt hello
-
+ls -l hello
 chmod 754 ./hello
-
-ls -rlt hello
-
-rm hello
 
