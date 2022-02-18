@@ -1,9 +1,8 @@
 initial=0
-end=9
 
-while [ $end  -ge  $initial ]
+while [ 9  -ge  $initial ]
 do
 echo "DevOps"
-let initial=$initial+1
+initial=$initial+1
 done
 
